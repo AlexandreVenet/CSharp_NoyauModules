@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CSharp_NoyauModules": {
+      "commandName": "Project",
+      "commandLineArgs": "TEsT"
+    }
+  }
+}
