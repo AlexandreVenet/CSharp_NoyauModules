@@ -45,6 +45,8 @@ La gestion des interfaces, des valeurs d'enum `Etape` et des méthodes est libre
 
 ## Notes
 
+Le fonctionnement repose essentiellement sur le polymorphisme (POO).
+
 L'application utilise des entités de l'espace de nom `System.Reflection`, que ce soit pour déclencher les méthodes de procédures ou pour par exemple explorer un modèle de données fourni par un module mais que `Procedure` ne peut pas connaître.
 
 Pour les projets complexes, on n'hésitera pas à créer autant de classes nécessaires dans le noyau.
