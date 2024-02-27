@@ -2,7 +2,7 @@
 
 But : 
 - organiser l'application en noyau et modules,
-- lancer l'application en lui passant en arguement un nom de module à exécuter, quelle que soit la casse,
+- lancer l'application en lui passant en argument un nom de module à exécuter, quelle que soit la casse,
 - structurer les modules de façon à ce qu'ils fournissent une procédure à exécuter par le programme, procédure dont les étapes sans doublon et leur ordre sont libres et définis au développement,
 - une étape dans la procédure est prédéfinie en noyau.
 
